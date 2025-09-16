@@ -3,7 +3,7 @@
 <h2> Data Analytics and Machine Learning Projects</h2>
 
 - <b>Python/Pytorch</b>
-  - [Handwritten Digit Classifier with PyTorch (MNIST Dataset)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Handwritten Digit Classifier with PyTorch (MNIST Dataset)]((https://github.com/nadia2004/cnn-digit-recognition))
 
 - <b>R Data Projects</b>
   - [Data Analysis of International Mathematical Olympiad (IMO) Performance (2015–2024)](https://github.com/joshmadakor1/EncrypterPOC)
