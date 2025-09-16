@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Nadia! 
 
-<!--
-**nadia2004/nadia2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Data Analytics and Machine Learning Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Python/Pytorch</b>
+  - [Handwritten Digit Classifier with PyTorch (MNIST Dataset)](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>R Data Projects</b>
+  - [Data Analysis of International Mathematical Olympiad (IMO) Performance (2015–2024)](https://github.com/joshmadakor1/EncrypterPOC)
+
+<h2> Certifications </h2>
+
+<h2> Connect with me on LinkedIn!</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: www.linkedin.com/in/ng-jia-en-nadia
+
+
+
