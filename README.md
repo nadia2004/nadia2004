@@ -11,13 +11,12 @@
 
 <h2> Certifications </h2>
 
-<h2> Connect with me on LinkedIn!</h2>
+<h2>Connect with me on LinkedIn!</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ng Jia En Nadia | LinkedIn" width="22px" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
-[linkedin]: www.linkedin.com/in/ng-jia-en-nadia
+[linkedin]: https://www.linkedin.com/in/ng-jia-en-nadia
 
 
 
