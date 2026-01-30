@@ -3,7 +3,7 @@
 <h2> Data Analytics and Machine Learning Projects</h2>
 
 - <b>Visualisation and Dashboarding</b>
-  - [HDB Resale Price Analysis and Linear Modelling using R  (Singapore, 2021)](https://github.com/nadia2004/hdb_resale_market_dashboard)
+  - [HDB Market Monitoring Dashboard (POWERBI)](https://github.com/nadia2004/hdb_resale_market_dashboard)
  
 
 - <b>R Data Projects</b>
