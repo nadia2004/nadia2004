@@ -2,6 +2,10 @@
 
 <h2> Data Analytics and Machine Learning Projects</h2>
 
+- <b>Visualisation and Dashboarding</b>
+  - [HDB Resale Price Analysis and Linear Modelling using R  (Singapore, 2021)](https://github.com/nadia2004/hdb_resale_market_dashboard)
+ 
+
 - <b>R Data Projects</b>
   - [HDB Resale Price Analysis and Linear Modelling using R  (Singapore, 2021)](https://github.com/nadia2004/hdb-resale-regression-modelling)
   - [Data Analysis and Visualisation of International Mathematical Olympiad (IMO) Performance (2015–2024)](https://github.com/nadia2004/imo_performance_analysis)
